@@ -1,2 +1,2 @@
 # tzone
-"""Receive Sensor's Reading
+"""Receive Sensor's Reading"""
