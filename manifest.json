@@ -1,0 +1,8 @@
+{
+  "domain": "tzone",
+  "name": "Tzone Sensor",
+  "codeowners": [],
+  "dependencies": [],
+  "iot_class": "local_polling",
+  "requirements": []
+}
